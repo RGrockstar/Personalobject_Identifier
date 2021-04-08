@@ -1,0 +1,28 @@
+body {
+ font-family: 'Fira Sans', sans-serif;
+}
+.header_div img{
+  width:100px;
+}
+.main_div{
+  border: solid 10px rgb(111, 255, 243);
+}
+.header_div img{
+ height:150px;  
+ width:150px; 
+}
+.image_and_result{
+  border: dashed blue 2px;
+  background: rgba(255,255,255,0.8);float: none;
+	box-shadow: 2px 4px 8px gray;
+	width: 25%;
+	height: 35%;
+  text-align: top;
+}
+.image_and_result img{
+  height: 130px;
+  width: 135px;
+}
+.result{
+  align-content:center;
+}
